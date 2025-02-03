@@ -1,0 +1,30 @@
+{
+    "projects": {
+        "BGC eCommerce App": {
+            "framework": "React",
+            "leader": "Eileen",
+            "progress": 78
+        },
+        "Falcon Logo Design": {
+            "framework": "Figma",
+            "leader": "Owen",
+            "progress": 18
+        },
+        "Dashboard Design": {
+            "framework": "VueJs",
+            "leader": "Keith",
+            "progress": 62
+        },
+        "Foodista Mobile App": {
+            "framework": "Xamarin",
+            "leader": "Merline",
+            "progress": 8
+        },
+        "Blockchain Website": {
+            "framework": "Sketch",
+            "leader": "Allyson",
+            "progress": 92
+        }
+    }
+ }
+ 
