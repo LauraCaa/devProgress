@@ -1,0 +1,12 @@
+services:
+  dev-progress:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ".:/opt/dev-progress"
+      - "/opt/dev-progress/node_modules"
+    environment:
+      - NEXT_WEBPACK_USEPOLLING=true
+      - CHOKIDAR_USEPOLLING=true
+      - WATCHPACK_POLLING=true
